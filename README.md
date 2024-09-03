@@ -1,18 +1,16 @@
-**Nebulous**
+# Nebulous
 
 Aplicação Python simples que permite a manipulação de imagens e a extração de texto através de OCR (Reconhecimento Óptico de Caracteres) usando o Tesseract.
 
 
 
-
-**ATENÇÃO!!!**
+## ATENÇÃO!!!
 
 A acurácia base desse programa é risível de tão ruim. Só está sendo divulgado para uso público por ser divertido de se mexer. Sinta-se livre para melhorar, alterar e virá-lo de ponta cabeça! :)
 
 
 
-
-**Requisitos**
+## Requisitos
 
 *Certifique-se de ter os seguintes requisitos instalados no seu ambiente antes de executar o projeto:*
 
@@ -26,8 +24,7 @@ A acurácia base desse programa é risível de tão ruim. Só está sendo divulg
 
 
 
-
-**Configuração**
+## Configuração**
 
 *Após instalar o Tesseract-OCR na sua máquina, configure o caminho do executável no script Python:*
 
@@ -37,8 +34,7 @@ Nota: Altere o caminho tesseract_cmd para o local onde o Tesseract está instala
 
 
 
-
-**Funcionalidades**
+## Funcionalidades
 
     >Abertura de Imagens: Permite selecionar e abrir imagens no formato JPG, PNG, etc.
     >Manipulação de Imagens:
@@ -53,7 +49,7 @@ Nota: Altere o caminho tesseract_cmd para o local onde o Tesseract está instala
 
 
 
-**Como Usar**
+## Como Usar
 
    > Execute o script Python.
    > Use o botão "+" para carregar uma imagem.
