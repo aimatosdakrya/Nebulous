@@ -50,9 +50,10 @@ Nota: Altere o caminho tesseract_cmd para o local onde o Tesseract está instala
 
 
 ## Como Usar
-
-   > Execute o script Python.
-   > Use o botão "+" para carregar uma imagem.
-   > Manipule a imagem utilizando os botões disponíveis (Rotacionar, Inverter).
-   > Clique em "✎ TRANSCREVER" para realizar o OCR e extrair o texto da imagem.
-   > Copie o texto utilizando o botão "📑 COPIAR" ou salve-o como PDF com "⬇📜 SALVAR COMO PDF".
+![image](https://github.com/user-attachments/assets/0131e6d9-fb29-45a7-8c89-bde349dc671f)
+   
+    > Execute o script Python.
+    > Use o botão "+" para carregar uma imagem.
+    > Manipule a imagem utilizando os botões disponíveis (Rotacionar, Inverter).
+    > Clique em "✎ TRANSCREVER" para realizar o OCR e extrair o texto da imagem.
+    > Copie o texto utilizando o botão "📑 COPIAR" ou salve-o como PDF com "⬇📜 SALVAR COMO PDF".
