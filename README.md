@@ -3,9 +3,13 @@
 Aplicação Python simples que permite a manipulação de imagens e a extração de texto através de OCR (Reconhecimento Óptico de Caracteres) usando o Tesseract.
 
 
+
+
 **ATENÇÃO!!!**
 
 A acurácia base desse programa é risível de tão ruim. Só está sendo divulgado para uso público por ser divertido de se mexer. Sinta-se livre para melhorar, alterar e virá-lo de ponta cabeça! :)
+
+
 
 
 **Requisitos**
@@ -21,6 +25,8 @@ A acurácia base desse programa é risível de tão ruim. Só está sendo divulg
     >FPDF: Biblioteca para criar PDFs a partir do texto extraído.
 
 
+
+
 **Configuração**
 
 *Após instalar o Tesseract-OCR na sua máquina, configure o caminho do executável no script Python:*
@@ -28,6 +34,8 @@ A acurácia base desse programa é risível de tão ruim. Só está sendo divulg
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 Nota: Altere o caminho tesseract_cmd para o local onde o Tesseract está instalado no seu sistema.
+
+
 
 
 **Funcionalidades**
@@ -41,6 +49,8 @@ Nota: Altere o caminho tesseract_cmd para o local onde o Tesseract está instala
         Exibição do texto extraído na interface.
         Copiar o texto para a área de transferência.
         Salvar o texto como um arquivo PDF.
+
+
 
 
 **Como Usar**
