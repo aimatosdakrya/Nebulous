@@ -24,7 +24,7 @@ A acurácia base desse programa é risível de tão ruim. Só está sendo divulg
 
 
 
-## Configuração**
+## Configuração
 
 *Após instalar o Tesseract-OCR na sua máquina, configure o caminho do executável no script Python:*
 
